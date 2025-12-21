@@ -1,0 +1,57 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+A1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A4	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	R	frontal	trained
+A5	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	R	central	trained
+A6	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A7	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A8	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A9	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	R	central	trained
+A10	ECOG	µV	0.08	300	1000	not applied	preserved	seizure onset zone	R	central	trained
+A11	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A12	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A13	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A14	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A15	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A16	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A17	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A18	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A19	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	central	trained
+A20	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	central	trained
+A21	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A22	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A23	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A24	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A25	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A26	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A27	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A28	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A29	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A30	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A31	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A32	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A33	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A34	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A35	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A36	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	temporal	trained
+A37	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A38	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A39	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A40	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A41	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A42	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A43	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A44	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A45	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A46	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A47	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A48	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A49	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A50	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A51	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A52	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A53	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A54	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A55	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A56	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
