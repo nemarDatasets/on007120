@@ -1,0 +1,129 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+A1	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+A2	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+A3	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+A4	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+A5	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+A6	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+A7	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+A8	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	parietal	trained
+A9	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	parietal	other
+A10	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A11	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A12	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A13	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	frontal	other
+A14	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	frontal	other
+A15	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	frontal	other
+A16	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	frontal	other
+A17	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+A18	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+A19	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+A20	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A21	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A22	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A23	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A24	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A25	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A26	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A27	ECOG	µV	0.08	300	1000	not applied	resected	artifact	R	temporal	unused
+A28	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A29	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A30	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A31	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A32	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A33	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A34	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	central	other
+A35	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A36	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A37	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	central	trained
+A38	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A39	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A40	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A41	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+A42	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A43	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A44	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	central	other
+A45	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+A46	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+A47	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+A48	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+A49	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	R	frontal	unused
+A50	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A51	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	central	other
+A52	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	central	other
+A53	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+A54	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+A55	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+A56	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+A57	ECOG	µV	0.08	300	1000	not applied	preserved	artifact	R	frontal	unused
+A58	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+A59	ECOG	µV	0.08	300	1000	not applied	preserved	spiking	R	central	other
+A60	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	central	other
+A61	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+A62	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+A63	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+A64	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+B1	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+B2	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B3	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B4	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	central	trained
+B5	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+B6	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+B7	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+B8	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+B9	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+B10	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B11	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B12	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	central	other
+B13	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	central	other
+B14	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+B15	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+B16	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	parietal	trained
+B17	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+B18	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B19	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B20	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	central	trained
+B21	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	central	trained
+B22	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+B23	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+B24	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	parietal	other
+B25	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+B26	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B27	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B28	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	central	other
+B29	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+B30	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+B31	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+B32	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	parietal	trained
+B33	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	occipital	trained
+B34	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+B35	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	temporal	trained
+B36	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+B37	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+B38	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+B39	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+B40	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	temporal	other
+B41	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	occipital	trained
+B42	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	occipital	trained
+B43	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	occipital	trained
+B44	ECOG	µV	0.08	300	1000	not applied	resected	seizure onset zone	R	occipital	trained
+B45	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	occipital	other
+B46	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	occipital	other
+B47	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	occipital	other
+B48	ECOG	µV	0.08	300	1000	not applied	resected	spiking	R	occipital	other
+B49	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+B50	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+B51	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+B52	ECOG	µV	0.08	300	1000	not applied	resected	artifact	R	central	unused
+B53	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B54	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	central	trained
+B55	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+B56	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+B57	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+B58	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+B59	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+B60	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	temporal	trained
+B61	ECOG	µV	0.08	300	1000	not applied	resected	normal	R	central	trained
+B62	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+B63	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
+B64	ECOG	µV	0.08	300	1000	not applied	preserved	normal	R	frontal	trained
