@@ -2,6 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "iEEG_comprehensive_HFA_model_part2",
+  "description": "This dataset comprises intracranial EEG recordings acquired during non-REM sleep from patients undergoing clinical monitoring. The data were collected to develop and validate comprehensive models of high-frequency activity in the context of sleep neurophysiology. This represents part 2 of a multi-part iEEG dataset designed to advance understanding of cortical dynamics during sleep.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -21,12 +22,36 @@
     "Masaki Iwasaki": {},
     "Eishi Asano": {}
   },
-  "related_identifiers": [
+  "keywords": [
     {
-      "identifier": "10.18112/openneuro.ds007120.v1.0.0",
-      "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "term": "intracranial EEG"
     },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "high-frequency activity"
+    },
+    {
+      "term": "non-REM sleep"
+    },
+    {
+      "term": "sleep neurophysiology"
+    },
+    {
+      "term": "cortical dynamics"
+    },
+    {
+      "term": "sleep"
+    },
+    {
+      "term": "epilepsy"
+    },
+    {
+      "term": "multi-site"
+    }
+  ],
+  "related_identifiers": [
     {
       "identifier": "https://github.com/nemarDatasets/on007120",
       "identifier_type": "URL",
@@ -41,11 +66,16 @@
       "identifier": "10.18112/openneuro.ds007120",
       "identifier_type": "DOI",
       "relation_type": "IsVersionOf"
+    },
+    {
+      "identifier": "10.18112/openneuro.ds007120.v1.0.0",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
     }
   ],
   "funding_references": [
     {
-      "funder_name": "National Institutes of Health",
+      "funder_name": "NIH",
       "award_number": "NS064033"
     },
     {
@@ -82,45 +112,20 @@
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
-    "0.0 KB (1 files)"
+    "35.4 GB (71 files)"
   ],
   "formats": [
     ".edf",
     ".json",
     ".md",
-    ".tsv"
+    ".tsv",
+    ".yml"
   ],
-  "description": "This dataset comprises intracranial EEG recordings acquired during non-REM sleep from patients undergoing clinical epilepsy monitoring. The data were collected for neurophysiological analysis and were used in Hatano et al. (in press). This resource supports investigations into sleep-related brain dynamics and intracranial electrophysiology.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "iEEG"
-    },
-    {
-      "term": "high-frequency activity"
-    },
-    {
-      "term": "sleep"
-    },
-    {
-      "term": "non-REM sleep"
-    },
-    {
-      "term": "electrocorticography"
-    },
-    {
-      "term": "neurophysiology"
-    },
-    {
-      "term": "epilepsy"
-    }
-  ],
-  "source_hash": "23dff7914a4a698f17a98802655c93d6960d794a2b851e5b7de989a8f920a5af"
+  "methods_description": "Intracranial EEG data were recorded during non-REM sleep using implanted electrodes. Recordings were conducted at multiple clinical sites including Wayne State University, Tohoku University, and the National Center of Neurology and Psychiatry.",
+  "source_hash": "0f45f8ac7fc153e4a7c70e86b4de4d6b1700d969b9a6fd95aa639ba2c2ade1d8"
 }
