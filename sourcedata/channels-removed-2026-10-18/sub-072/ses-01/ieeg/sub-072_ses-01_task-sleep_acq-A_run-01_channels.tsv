@@ -1,0 +1,13 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	notch	resection	status_description	hemisphere	lobe	dataset
+A41	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A42	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A43	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A44	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A45	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A46	SEEG	µV	0.08	300	1000	not applied	resected	seizure onset zone	n/a	n/a	trained
+A47	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A48	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A49	SEEG	µV	0.08	300	1000	not applied	resected	normal	n/a	n/a	trained
+A50	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A51	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
+A52	SEEG	µV	0.08	300	1000	not applied	resected	spiking	n/a	n/a	unused
